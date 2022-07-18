@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mechanic-help",
+    "slug": "mechanic-help",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
