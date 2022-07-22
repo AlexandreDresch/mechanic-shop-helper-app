@@ -13,7 +13,7 @@ Use **yarn** or **npm install** to install project dependencies.
 Then start the project.
 
 ```cl
-expo start
+expo run:android
 ```
 
 ## Features
