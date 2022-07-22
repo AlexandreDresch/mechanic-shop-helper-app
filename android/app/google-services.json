@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "535933088020",
+    "project_id": "mechanicalhelp",
+    "storage_bucket": "mechanicalhelp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535933088020:android:df06bf52167523e3d3d201",
+        "android_client_info": {
+          "package_name": "com.mechanicalhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535933088020-7h1qubqt85p6vl1eatlsi3llfjaug683.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHV-LzC8ZoBZ5JiC0HZfUqU8E7VpMDIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535933088020-7h1qubqt85p6vl1eatlsi3llfjaug683.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535933088020-52kfpj8cijrjv64qee2to7fhnq5o5or8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mechanicalhelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
